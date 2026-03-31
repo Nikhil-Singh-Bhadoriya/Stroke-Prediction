@@ -18,7 +18,7 @@ This project builds an end-to-end pipeline: loading patient data (age, gender, h
 
 ---
 
-## 🔄 Workflow Summary
+##  Workflow Summary
 
 ### 1. Data Collection
 
@@ -66,7 +66,7 @@ Metrics used:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Stroke-Prediction-ML-Classification/
