@@ -1,16 +1,16 @@
-# 🧬 Stroke Prediction using Machine Learning Classification Algorithm
+#  Stroke Prediction using Machine Learning Classification Algorithm
 
 A machine-learning project focused on predicting the likelihood of a stroke using classification models and patient demographic, lifestyle, and medical data.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project builds an end-to-end pipeline: loading patient data (age, gender, hypertension, heart disease, smoking status, BMI, etc.), performing exploratory analysis, engineering features, training classification models (e.g., Logistic Regression, Random Forest, XGBoost), evaluating their performance, and deriving actionable insights for health interventions. The goal is to classify patients into high vs low risk of stroke and support early preventive care.
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 * **Language:** Python
 * **Libraries:** pandas, numpy, matplotlib, seaborn, scikit-learn
